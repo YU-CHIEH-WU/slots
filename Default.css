@@ -1,0 +1,114 @@
+body{
+	background-color: #eeeeee;
+}
+.board,.controller{
+	margin: 50px;
+}
+.raise{
+	margin-left: 600px;
+}
+.raise div{
+	margin: 10px;
+	float: left;
+}
+.board div{
+	width: 70px;
+	height: 80px;
+	position: absolute;
+}
+.board-0{
+	left:50px;
+	top:50px;
+}
+.board-1{
+	left:120px;
+	top:50px;
+}
+.board-2{
+	left: 190px;
+	top:50px;
+}
+.board-3{
+	left:260px;
+	top:50px;
+}
+.board-4{
+	left:330px;
+	top:50px;
+}
+.board-5{
+	left:400px;
+	top: 50px;
+}
+.board-6{
+	left:470px;
+	top:50px;
+}
+.board-7{
+	left:470px;
+	top:130px;
+}
+.board-8{
+	left:470px;
+	top:210px;
+}
+.board-9{
+	left:470px;
+	top:290px;
+}
+.board-10{
+	left:470px;
+	top:370px;
+}
+.board-11{
+	left:470px;
+	top:450px;
+}
+.board-12{
+	left:470px;
+	top:530px;
+}
+.board-13{
+	left:400px;
+	top:530px;
+}
+.board-14{
+	left:330px;
+	top:530px;
+}
+.board-15{
+	left:260px;
+	top:530px;
+}
+.board-16{
+	left:190px;
+	top:530px;
+}
+.board-17{
+	left:120px;
+	top:530px;
+}
+.board-18{
+	left:50px;
+	top:530px;
+}
+.board-19{
+	left:50px;
+	top:450px;
+}
+.board-20{
+	left:50px;
+	top:370px;
+}
+.board-21{
+	left:50px;
+	top:290px;
+}
+.board-22{
+	left:50px;
+	top:210px;
+}
+.board-23{
+	left:50px;
+	top:130px;
+}
